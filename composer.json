@@ -1,0 +1,17 @@
+{
+    "name": "mgor/antixss",
+    "authors": [
+        {
+            "name": "Gor Mkhitaryan",
+            "email": "mkhitaryan.gor@svyaznoy.ru"
+        }
+    ],
+    "require": {
+        "laravel/framework": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mgor\\": "src/"
+        }
+    }
+}
